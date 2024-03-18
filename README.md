@@ -89,13 +89,13 @@ Bu proje, FastAPI kullanarak bir görüntü sınıflandırma servisi sunar. Kull
 - Bu uygulama, önceden eğitilmiş bir görüntü sınıflandırma modelini kullanır. Modeli eğitmek ve yeni verilere göre güncellemek istiyorsanız, ayrıntılı talimatlar için model belgelerine bakın.
 - FastAPI hizmetine bir görüntü yüklemek için basit bir HTML formu bulunmaktadır. Bu form, kullanıcıların bir görüntü seçmelerine ve sunucuya yüklemelerine olanak tanır. Yüklenen görüntü, FastAPI hizmeti tarafından tahmin edilir ve sonuç JSON olarak sunulur. Ayrıca, CIFAR-10 veri seti ve CNN modeli hakkında bilgilendirici bir bölüm de içerir.
   
-Referanslar
-github.com/ABI-Virtual-Brain-Project/CNN-TaskLisansa tabi (Apache - 2.0)
-github.com/liyongqingupc/ACLN-WindFieldCorrection
-github.com/AlexTorres10/TCC
-github.com/Mehwish4593/Mehwish4593
-stackoverflow.com/questions/54207049/keras-cnn-validation-accuracy-stuck-at-70-training-accuracy-reaching-100
-github.com/Chetank190/DogCatsClassifier_BigDataProject
-github.com/Catalina-13/City-Congestion-Simulator
-github.com/raja21068/Android_Malware_DetectionLisansa tabi (Apache - 2.0)
-https://baraaalbourghli.medium.com/deploy-your-keras-or-tensorflow-machine-learning-model-to-aws-using-amazon-sagemaker-how-to-2d88a6e779cc
+## Referanslar
+1.github.com/ABI-Virtual-Brain-Project/CNN-TaskLisansa tabi (Apache - 2.0)
+2.github.com/liyongqingupc/ACLN-WindFieldCorrection
+3.github.com/AlexTorres10/TCC
+4.github.com/Mehwish4593/Mehwish4593
+5.stackoverflow.com/questions/54207049/keras-cnn-validation-accuracy-stuck-at-70-training-accuracy-reaching-100
+6.github.com/Chetank190/DogCatsClassifier_BigDataProject
+7.github.com/Catalina-13/City-Congestion-Simulator
+8.github.com/raja21068/Android_Malware_DetectionLisansa tabi (Apache - 2.0)
+9.https://baraaalbourghli.medium.com/deploy-your-keras-or-tensorflow-machine-learning-model-to-aws-using-amazon-sagemaker-how-to-2d88a6e779cc
