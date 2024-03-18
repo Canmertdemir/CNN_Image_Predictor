@@ -61,7 +61,7 @@ Bu proje, FastAPI kullanarak bir görüntü sınıflandırma servisi sunar. Kull
    Gereksinimleri yüklemek için aşağıdaki komutları kullanın:
 
    ```bash
-   pip install fastapi uvicorn python-multipart tensorflow opencv-python-headless numpy
+   pip install -r requirements.txt
    ```
 
 2. **Model ve Servis Hazırlığı**
